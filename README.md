@@ -1,6 +1,6 @@
-# assignment 1
+# Test
 
-Square technical assignment 1.
+Square technical assessment 1.
 
 ## Getting Started
 

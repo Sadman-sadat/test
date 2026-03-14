@@ -1,6 +1,6 @@
-# temp
+# assignment 1
 
-A new Flutter project.
+Square technical assignment 1.
 
 ## Getting Started
 
